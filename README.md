@@ -14,6 +14,7 @@ i am gonna ride this bike
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 ## Array
@@ -33,4 +34,12 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
