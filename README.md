@@ -73,6 +73,7 @@ i am gonna ride this bike
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
@@ -87,6 +88,7 @@ i am gonna ride this bike
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
@@ -113,4 +115,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
