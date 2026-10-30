@@ -95,9 +95,22 @@ i am gonna ride this bike
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
