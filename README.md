@@ -24,6 +24,7 @@ i am gonna ride this bike
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -71,6 +72,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
@@ -92,4 +94,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
