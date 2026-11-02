@@ -31,6 +31,7 @@ i am gonna ride this bike
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -111,6 +112,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
 |  |
 | ------- |
@@ -135,4 +137,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/YuvrajSingh-2006/project/tree/master/0177-nth-highest-salary) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
