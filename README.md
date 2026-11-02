@@ -17,6 +17,7 @@ i am gonna ride this bike
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
+| [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ i am gonna ride this bike
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
+| [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -61,6 +63,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
+| [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -124,4 +127,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 <!---LeetCode Topics End-->
